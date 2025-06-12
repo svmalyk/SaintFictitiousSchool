@@ -1,0 +1,1 @@
+#include "/home/smalik/WinLocalShare/PROJECTS_CXX/schoolMANAGEMENT/src/mathematics/bisectionMethod/bisection.H"//#include<smgmt>//using namespace smgmt;int main (){    smgmt::bisection funct(5,0,1);    funct.getRoot;  return 0;}
